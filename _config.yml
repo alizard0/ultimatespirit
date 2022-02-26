@@ -1,3 +1,2 @@
 theme: jekyll-theme-minimal
-site.logo: https://static.wikia.nocookie.net/tibia/images/f/f0/Ultimate_Spirit_Potion.gif/revision/latest?cb=20160415181740&path-prefix=en&format=original
-logo: https://static.wikia.nocookie.net/tibia/images/f/f0/Ultimate_Spirit_Potion.gif/revision/latest?cb=20160415181740&path-prefix=en&format=original
+logo: /assets/img/ultimate-spirit.gif
