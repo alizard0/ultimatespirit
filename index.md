@@ -4,8 +4,6 @@
 ### About
 Ultimate Spirit is a fan-based project which tries to help and guide paladins in their adventures, quests and hunts. Please note, the images used in this website are from the game Tibia which is copyrighted by CipSoft GmbH.
 
-![stars](./assets/img/YellowStars_3x.gif)
-
 ### Paladin
 Vestibulum et egestas lectus. Suspendisse sed metus tincidunt, tempus neque in, ultrices lorem. Sed sit amet mattis massa. Vivamus ac mauris nunc. Quisque molestie at erat vitae viverra. Curabitur ac ullamcorper turpis. Aenean luctus feugiat justo, id porttitor elit accumsan quis. In nec est quis turpis pretium viverra. Aliquam erat volutpat. Nunc at tristique enim, id tincidunt ipsum. Nulla at nisi at est tincidunt commodo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed lobortis vitae mi id condimentum. Proin efficitur condimentum bibendum. Quisque efficitur nisi ac rutrum sollicitudin. Phasellus ipsum justo, dictum vitae tristique. 
 
