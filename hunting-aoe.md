@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Equipment
+## Hunting AoE
 
 _yay_
 
