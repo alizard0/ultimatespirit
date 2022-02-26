@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Ultimate Spirit
 
 You can use the [editor on GitHub](https://github.com/alizard0/ultimatespirit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

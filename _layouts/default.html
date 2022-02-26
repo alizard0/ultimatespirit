@@ -15,15 +15,18 @@
   <body>
     <div class="wrapper">
       <header>
-        {% if site.logo %}
-          <img style=" max-width:100%; height:auto; min-width: 50%;" src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
+        <img style=" max-width:100%; height:auto; min-width: 50%;" src="{{site.logo | relative_url}}" alt="Logo" />
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         <br/>
-        <p><a href="./hunting.html">Hunting</a></p>
-        <p><a href="./charms.html">Charms</a></p>
-        <p><a href="./equipment.html">Equipment</a></p>
+        <p>
+          <a href="./hunting.html">Hunting</a>
+          <br/>
+          <a href="./charms.html">Charms</a>
+          <br/>
+          <a href="./equipment.html">Equipment</a>
+        </p>
+        <img style=" max-width:100%; height:auto; min-width: 50%;" src="/assets/img/TibiaDragonLogo_HighRes.png" alt="Logo" />
       </header>
       <section>
 
