@@ -1,33 +1,15 @@
 ## Ultimate Spirit
-> make paladins great again
+> ultimate guide for royal paladins
 
-### Markdown
+### About
+Ultimate Spirit is a fan-based project which tries to help and guide paladins in their adventures, quests and hunts. Please note, the images used in this website are from the game Tibia which is copyrighted by CipSoft GmbH.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Paladin
+Vestibulum et egestas lectus. Suspendisse sed metus tincidunt, tempus neque in, ultrices lorem. Sed sit amet mattis massa. Vivamus ac mauris nunc. Quisque molestie at erat vitae viverra. Curabitur ac ullamcorper turpis. Aenean luctus feugiat justo, id porttitor elit accumsan quis. In nec est quis turpis pretium viverra. Aliquam erat volutpat. Nunc at tristique enim, id tincidunt ipsum. Nulla at nisi at est tincidunt commodo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed lobortis vitae mi id condimentum. Proin efficitur condimentum bibendum. Quisque efficitur nisi ac rutrum sollicitudin. Phasellus ipsum justo, dictum vitae tristique. 
 
-```markdown
-Syntax highlighted code block
+![paladin](./assets/img/HeaderArtwork_WinterUpdate2019.jpg)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alizard0/ultimatespirit/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Aenean euismod egestas est, vel viverra urna congue id. Mauris sit amet tortor quam. Mauris at aliquam odio. Ut nec dolor in ipsum faucibus congue in vel erat. Sed dictum felis non faucibus tempus. Maecenas sagittis, massa non mattis pretium, sem arcu tincidunt enim, eget iaculis velit eros sit amet ipsum. Aliquam volutpat lorem a ante aliquam euismod. Donec at erat volutpat neque sodales commodo quis eget erat. Sed viverra est non metus scelerisque, aliquet molestie dui consectetur. Aliquam sed varius leo. Suspendisse eget justo non sapien imperdiet feugiat eget ac tortor. Donec sit amet lorem ut sem pulvinar ultrices. 
 
 ### Support or Contact
 
